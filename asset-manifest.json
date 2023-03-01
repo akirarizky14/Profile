@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Profile/static/css/main.56648888.css",
+    "main.js": "/Profile/static/js/main.1f5f2b45.js",
+    "static/media/python.jpg": "/Profile/static/media/python.c9578ac26bf366d99e22.jpg",
+    "static/media/OD.jpg": "/Profile/static/media/OD.94bf701520faa842b061.jpg",
+    "static/media/dummy-1.jpg": "/Profile/static/media/dummy-1.e0701c865b8512336b6c.jpg",
+    "static/media/maths.jpg": "/Profile/static/media/maths.3913377be87ff3fa9349.jpg",
+    "static/media/color.jpg": "/Profile/static/media/color.4af9ef9bfda1f3ccba51.jpg",
+    "static/media/BC.jpeg": "/Profile/static/media/BC.82aa2c937dc9d790f0e3.jpeg",
+    "static/media/android.jpg": "/Profile/static/media/android.68b06bbccee14083c589.jpg",
+    "static/media/tw.png": "/Profile/static/media/tw.080c39de44d7717a36ef.png",
+    "index.html": "/Profile/index.html",
+    "main.56648888.css.map": "/Profile/static/css/main.56648888.css.map",
+    "main.1f5f2b45.js.map": "/Profile/static/js/main.1f5f2b45.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56648888.css",
+    "static/js/main.1f5f2b45.js"
+  ]
+}
