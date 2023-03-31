@@ -42,14 +42,42 @@
 }
 .caption-Home h3{
     font-size: 24px;
+    text-align: justify;
 }
 .caption-Home h4{
     font-size: 20px;
     width: 75%;
+    text-align: justify;
 }
 .container-foto img{
     height: 300px;
     width: 250px;
     object-fit: cover;
     box-shadow: -20px 20px 10px rgb(37, 37, 37);
+}
+@media only screen and(max-width: 800px){
+    .container-foto{
+        display: flex;
+        width: 55%;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+        align-items: center;
+        justify-content: end;
+        margin: 50px;
+        background-color: #ffffff;
+    }
+    .container-foto img{
+        height: 150px;
+        width: 100px;
+        object-fit: cover;
+        box-shadow: -20px 20px 10px rgb(37, 37, 37);
+    }
+    .caption-Home h3{
+        font-size: 12px;
+    }
+    .caption-Home h4{
+        font-size: 10px;
+        width: 75%;
+    }
 }
