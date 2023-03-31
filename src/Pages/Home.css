@@ -75,9 +75,11 @@
     }
     .caption-Home h3{
         font-size: 12px;
+        text-align: justify;
     }
     .caption-Home h4{
         font-size: 10px;
         width: 75%;
+        text-align: justify;
     }
 }
