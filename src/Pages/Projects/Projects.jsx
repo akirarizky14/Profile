@@ -1,5 +1,4 @@
 import React from 'react';
-import dummy from './../../Assets/dummy-1.jpg';
 import './Projects.css';
 import color from './../../Assets/color.jpg';
 import maths from './../../Assets/maths.jpg';
